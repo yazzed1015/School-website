@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>مدرسة يزيد بن حاتم الأزدي</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>مدرسة يزيد بن حاتم الأزدي</h1>
+    <p>بوابة التعليم والتواصل مع أولياء الأمور</p>
+  </header>
+
+  <nav>
+    <a href="index.html">الرئيسية</a>
+    <a href="news.html">الأخبار</a>
+    <a href="schedules.html">الجداول</a>
+    <a href="contact.html">التواصل</a>
+  </nav>
+
+  <main>
+    <h2>أهلاً وسهلاً</h2>
+    <p>هذا الموقع الرسمي للمدرسة، حيث يمكنكم متابعة آخر الأخبار، الاطلاع على الجداول الدراسية، والتواصل مع الإدارة.</p>
+  </main>
+
+  <footer>
+    &copy; 2026 مدرسة يزيد بن حاتم الأزدي - جميع الحقوق محفوظة
+  </footer>
+</body>
+</html>
